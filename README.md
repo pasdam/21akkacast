@@ -10,6 +10,7 @@ Dependencies:
 * [scala-library-2.10.4.jar](http://mvnrepository.com/artifact/org.scala-lang/scala-library/2.10.4);
 * [config-1.2.1.jar](http://mvnrepository.com/artifact/com.typesafe/config/1.2.1);
 * [hazelcast-all-3.6.1.jar](http://mvnrepository.com/artifact/com.hazelcast/hazelcast-all/3.6.1).
+
 This jar has to be copied into the bundle folder of the container.
 
 The bundle was tested in the [Apache Felix](https://felix.apache.org) OSGi container.
